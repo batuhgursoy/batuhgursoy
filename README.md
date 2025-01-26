@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/swift-vs-flutter1200.png)
+![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/swift-vs-flutter1200.png)
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I am a Mobile Developer</h3>
 
