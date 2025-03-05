@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I am a Mobile Developer</h3>
 
