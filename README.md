@@ -1,4 +1,4 @@
-![MasterHead](https://www.mindinventory.com/blog/wp-content/uploads/2022/10/swift-vs-flutter1200.png)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">I am a Mobile Developer</h3>
 
@@ -11,5 +11,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
 
-![snake gif](https://github.com/batuhgursoy/batuhgursoy/blob/output/github-contribution-grid-snake.gif)
+
 
